@@ -1,0 +1,33 @@
+{
+    "Jalgaon": {
+        "Shardul": {
+            "phone": 9404594440,
+            "address": "18/78highway",
+            "pincode": 425001
+        },
+        "Amish": {
+            "phone": 91911,
+            "address": "Jalgaon",
+            "pincode": 45224
+        }
+    },
+    "Mumbai": {
+        "Satish": {
+            "phone": 9404594440,
+            "address": "18/78 Darshan Colony Mumbai",
+            "pincode": 400706
+        },
+        "Madhuri": {
+            "phone": 9404594441,
+            "address": "18/78 Darshan Colony Mumbai",
+            "pincode": 400706
+        }
+    },
+    "Pune": {
+        "Sagar": {
+            "phone": 5555,
+            "address": "home",
+            "pincode": 4545
+        }
+    }
+}
