@@ -1,0 +1,18 @@
+{
+    "Air India":{
+        "Number of Stocks":50,
+        "stock_price":20
+    },
+    "Bpcl":{
+        "Number of Stocks":150,
+        "stock_price":100
+    },
+    "Reliance":{
+        "Number of Stocks":250,
+        "stock_price":550
+    },
+    "TCS":{
+        "Number of Stocks":350,
+        "stock_price":700
+    }
+}
